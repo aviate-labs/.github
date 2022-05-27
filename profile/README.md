@@ -10,7 +10,7 @@
 
 ## Motoko Packages 📦
 
-- [30+ Motoko Packages/Libraries](https://github.com/orgs/aviate-labs/repositories?q=&language=modelica)
+- [30+ Motoko Packages/Libraries](https://github.com/orgs/aviate-labs/repositories?q=.mo)
 
 ---
 
