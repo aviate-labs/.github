@@ -2,4 +2,4 @@
 
 ## Did you find a vulnerability?
 
-Please report security issues to `dev@aviate-labs.com`.
+Please report security issues to `quint@0x51.dev`.
